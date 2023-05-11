@@ -1,4 +1,3 @@
-# Dappazon
 
 ## Technology Stack & Tools
 
@@ -27,5 +26,3 @@
 In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
-### 6. Start frontend
-`$ npm run start`# Web3Ecommerce
